@@ -2,10 +2,10 @@
 
 ## HiGraphDTI
 
-+ The code for the paper <a href='https://arxiv.org/abs/2404.10561' style="text-decoration: none;">"HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction"</a>.
++ The code for the paper <a href='https://arxiv.org/abs/2404.10561'>"HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction"</a>.
 +  **HiGraphDTI** learns hierarchical drug representations from triple-level molecular graphs to thoroughly exploit chemical information embedded in atoms, motifs, and molecules. Then, an attentional feature fusion module incorporates information from different receptive fields to extract expressive target features. Last, the hierarchical attention mechanism identifies crucial molecular segments, which offers complementary views for interpreting interaction mechanisms. The overview architecture of HiGraphDTI is shown as follows.
 
-<img src="C:\Users\ACER\Desktop\flow.png#pic_center" alt="The overview architecture of HiGraphDTI" style="zoom:67%;" />
+<img src="img\flow.png#pic_center" alt="The overview architecture of HiGraphDTI" style="zoom:67%;" />
 
 
 
